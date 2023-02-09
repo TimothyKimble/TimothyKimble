@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .App {
   text-align: center;
 }
@@ -28,11 +32,29 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.profile-image {
+  border-radius: 50%;
+}
+
+.i-am::before {
+  content: "Full-Stack Engineer";
+  animation: titles infinite 16s;
+}
+
+@keyframes titles {
+  20% {
+    content: "React Developer";
   }
-  to {
-    transform: rotate(360deg);
+  40% {
+    content: "AWS Certified Cloud Practitioner";
+  }
+  60% {
+    content: "Java & Springboot engineer";
+  }
+  80% {
+    content: "Dotnet Developer"
+  }
+  100% {
+    content: "Full-Stack Engineer"
   }
 }
