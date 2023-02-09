@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+### Hello Adventurer ⚔
+My name is Timothy Kimble. I'm currently a student for software development at Boise Codeworks. I am eager to learn anything and everything relating to software development, especially in the scope of gaming! 🎮
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I am currently learning full-stack web development involving HTML, CSS/Bootstrap, Javascript, Node.js, Vue.js, and C#. 
 
-## Available Scripts
+I would love to have you follow me on my journey to becoming a software developer by viewing my landing page! 
+🖥 &nbsp;https://github.com/TimothyKimble
 
-In the project directory, you can run:
+### Have questions or want to meet up? 
+  Feel free to contact me regarding anything in the world of software or gaming! It would be awesome to connect with you!
 
-### `npm start`
+📧 &nbsp; TimothyAKimble@gmail.com
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+👔 &nbsp; <a href="https://www.linkedin.com/in/timothykimble/">LinkedIn </a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+📱 &nbsp; <a href="https://www.instagram.com/teemothy_present/">Instagram</a>
 
-### `npm test`
+### More About Me
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ 🎮 &nbsp; I enjoy video games, especially First Person Shooters, MMORPG's, and Survival games <br>
+ 🃏 &nbsp; Love playing board games <br>
+ 🧙‍♂️ &nbsp; Homebrew Dungeon Master and Sorcerer <br>
+ 👨‍🍳 &nbsp; Aspiring Cook and Baker <br>
+ 🎷&nbsp; Play multiple instruments including Saxophone, Piano, and Singing Tenor <br>
+ 💑 &nbsp; Enjoy spending time with my wife <br>
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+"I can't carry it for you, but I can carry you."
+ <br> Samwise Gamgee <br>

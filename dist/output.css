@@ -559,6 +559,42 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.m-0 {
+  margin: 0px;
+}
+
+.m-1 {
+  margin: 0.25rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
+.p-0 {
+  padding: 0px;
+}
+
+.p-1 {
+  padding: 0.25rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
 .App {
   text-align: center;
 }
@@ -590,26 +626,56 @@ video {
   color: #61dafb;
 }
 
-@-webkit-keyframes App-logo-spin {
-  from {
-    -webkit-transform: rotate(0deg);
-            transform: rotate(0deg);
+.profile-image {
+  border-radius: 50%;
+}
+
+.i-am::before {
+  content: "Full-Stack Engineer";
+  -webkit-animation: titles infinite 16s;
+          animation: titles infinite 16s;
+}
+
+@-webkit-keyframes titles {
+  20% {
+    content: "Video Game Lover";
   }
 
-  to {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
+  40% {
+    content: "AWS Certified Cloud Practitioner";
+  }
+
+  60% {
+    content: "Java & Springboot Engineer";
+  }
+
+  80% {
+    content: "Dotnet Developer"
+  }
+
+  100% {
+    content: "Full-Stack Engineer"
   }
 }
 
-@keyframes App-logo-spin {
-  from {
-    -webkit-transform: rotate(0deg);
-            transform: rotate(0deg);
+@keyframes titles {
+  20% {
+    content: "Video Game Lover";
   }
 
-  to {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
+  40% {
+    content: "AWS Certified Cloud Practitioner";
+  }
+
+  60% {
+    content: "Java & Springboot Engineer";
+  }
+
+  80% {
+    content: "Dotnet Developer"
+  }
+
+  100% {
+    content: "Full-Stack Engineer"
   }
 }
