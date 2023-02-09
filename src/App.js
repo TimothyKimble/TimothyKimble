@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { Routes } from "react-router-dom";
+import { Route } from "react-router-dom";
 import Home from "./routes/Home";
 import About from "./routes/About";
 import Careers from "./routes/Careers";
