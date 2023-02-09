@@ -1,7 +1,5 @@
 ### Hello Adventurer ⚔
-My name is Timothy Kimble. I'm currently a student for software development at Boise Codeworks. I am eager to learn anything and everything relating to software development, especially in the scope of gaming! 🎮
-
-I am currently learning full-stack web development involving HTML, CSS/Bootstrap, Javascript, Node.js, Vue.js, and C#. 
+My name is Timothy Kimble. I'm currently a Full-Stack Software Engineer working primarilly in C#, Java, MongoDB, React and Azure.
 
 I would love to have you follow me on my journey to becoming a software developer by viewing my landing page! 
 🖥 &nbsp;https://github.com/TimothyKimble
