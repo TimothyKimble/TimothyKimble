@@ -1,26 +1,38 @@
-### Hello Adventurer ⚔
-My name is Timothy Kimble. I'm currently a Full-Stack Software Engineer working primarilly in C#, Java, MongoDB, React and Azure.
+# create-svelte
 
-I would love to have you follow me on my journey to becoming a software developer by viewing my landing page! 
-🖥 &nbsp;https://github.com/TimothyKimble
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
-### Have questions or want to meet up? 
-  Feel free to contact me regarding anything in the world of software or gaming! It would be awesome to connect with you!
+## Creating a project
 
-📧 &nbsp; TimothyAKimble@gmail.com
+If you're seeing this, you've probably already done this step. Congrats!
 
-👔 &nbsp; <a href="https://www.linkedin.com/in/timothykimble/">LinkedIn </a>
+```bash
+# create a new project in the current directory
+npm create svelte@latest
 
-📱 &nbsp; <a href="https://www.instagram.com/teemothy_present/">Instagram</a>
+# create a new project in my-app
+npm create svelte@latest my-app
+```
 
-### More About Me
+## Developing
 
- 🎮 &nbsp; I enjoy video games, especially First Person Shooters, MMORPG's, and Survival games <br>
- 🃏 &nbsp; Love playing board games <br>
- 🧙‍♂️ &nbsp; Homebrew Dungeon Master and Sorcerer <br>
- 👨‍🍳 &nbsp; Aspiring Cook and Baker <br>
- 🎷&nbsp; Play multiple instruments including Saxophone, Piano, and Singing Tenor <br>
- 💑 &nbsp; Enjoy spending time with my wife <br>
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-"I can't carry it for you, but I can carry you."
- <br> Samwise Gamgee <br>
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
